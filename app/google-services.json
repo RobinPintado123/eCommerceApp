@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "740374185277",
+    "firebase_url": "https://ecomm-f3228.firebaseio.com",
+    "project_id": "ecomm-f3228",
+    "storage_bucket": "ecomm-f3228.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740374185277:android:3be746bc98b51bb7",
+        "android_client_info": {
+          "package_name": "com.example.robin.ecommerce2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740374185277-ji65qru0qqmjbtutuanfv31aqskg9c3r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.robin.ecommerce2",
+            "certificate_hash": "68859dfe5ce6bf32d5e29c333be7edc38ab35cee"
+          }
+        },
+        {
+          "client_id": "740374185277-atc1s045pv5tf05o9cfvffp8h800mjvo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz2ls0O36GxXFYdl4GHV1NHecFO5H9Pmg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740374185277-atc1s045pv5tf05o9cfvffp8h800mjvo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
